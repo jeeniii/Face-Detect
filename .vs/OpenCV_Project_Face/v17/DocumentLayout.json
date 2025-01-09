@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xkr12\\source\\repos\\OpenCV_Project_Face\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EDD6BD-ADD3-4390-939C-083E57E8F1C0}|OpenCV_Project_Face\\OpenCV_Project_Face.csproj|c:\\users\\xkr12\\source\\repos\\opencv_project_face\\opencv_project_face\\facemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EDD6BD-ADD3-4390-939C-083E57E8F1C0}|OpenCV_Project_Face\\OpenCV_Project_Face.csproj|solutionrelative:opencv_project_face\\facemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EDD6BD-ADD3-4390-939C-083E57E8F1C0}|OpenCV_Project_Face\\OpenCV_Project_Face.csproj|C:\\Users\\xkr12\\source\\repos\\OpenCV_Project_Face\\opencv_project_face\\facemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9EDD6BD-ADD3-4390-939C-083E57E8F1C0}|OpenCV_Project_Face\\OpenCV_Project_Face.csproj|solutionrelative:opencv_project_face\\facemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaceManager.cs",
+              "DocumentMoniker": "C:\\Users\\xkr12\\source\\repos\\OpenCV_Project_Face\\OpenCV_Project_Face\\FaceManager.cs",
+              "RelativeDocumentMoniker": "OpenCV_Project_Face\\FaceManager.cs",
+              "ToolTip": "C:\\Users\\xkr12\\source\\repos\\OpenCV_Project_Face\\OpenCV_Project_Face\\FaceManager.cs",
+              "RelativeToolTip": "OpenCV_Project_Face\\FaceManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowGMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:40:40.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaceManager.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\xkr12\\source\\repos\\OpenCV_Project_Face\\OpenCV_Project_Face\\FaceManager.cs",
+              "RelativeDocumentMoniker": "OpenCV_Project_Face\\FaceManager.cs",
+              "ToolTip": "C:\\Users\\xkr12\\source\\repos\\OpenCV_Project_Face\\OpenCV_Project_Face\\FaceManager.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "OpenCV_Project_Face\\FaceManager.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:30:30.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
