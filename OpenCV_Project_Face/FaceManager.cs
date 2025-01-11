@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using OpenCvSharp;
 using OpenCvSharp.Extensions;
@@ -99,6 +93,9 @@ namespace OpenCV_Project_Face
                     // 얼굴에 빨간색 사각형 그리기
                     Cv2.Rectangle(frame, face, Scalar.Red, 2);
 
+                    // 얼굴에 텍스트 추가
+                    Cv2.PutText(frame, "face", new OpenCvSharp.Point(face.X + 5, face.Y - 10), HersheyFonts.HersheySimplex, 0.8, Scalar.Red, 2);
+
                     // 얼굴 영역 추출
                     var faceROI = new Mat(grayFrame, face);
 
@@ -116,6 +113,9 @@ namespace OpenCV_Project_Face
 
                         // 눈에 파란색 사각형 그리기
                         Cv2.Rectangle(frame,eyeRect, Scalar.Blue, 2);
+
+                        // 눈에 텍스트 추가
+                        Cv2.PutText(frame, "eye", new OpenCvSharp.Point(eyeRect.X + 5, eyeRect.Y - 10), HersheyFonts.HersheySimplex, 0.8, Scalar.Blue, 2);
                     }
                 }
             }
